@@ -27,8 +27,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/passguard.git
-cd passguard
+git clone https://github.com/sanjaysingh-lang/PassGuard.git
+cd PassGuard
 ```
 
 Or just download `password_checker.py` and put it in any folder.
